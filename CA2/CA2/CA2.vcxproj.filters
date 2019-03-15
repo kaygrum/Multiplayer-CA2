@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Animation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Application.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\BloomEffect.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Button.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Category.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Character.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\CharacterAnimation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Clock.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Command.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\CommandQueue.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Component.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Constants.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Container.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\DataTables.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\EmitterNode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Entity.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Foreach.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\GameOverState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\GameServer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\GameState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Interactable.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Label.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\LeaderBoardState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\MenuState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\MultiplayerGameState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\MusicPlayer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\NetworkNode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\NetworkProtocol.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Particle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\ParticleNode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\PauseState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Platform.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Player.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\PostEffect.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\ResourceHolder.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\ResourceIdentifiers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SceneNode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SettingsState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SoundNode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SoundPlayer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SpriteNode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\State.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\StateIdentifiers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\StateStack.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\TextNode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\TitleState.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Utility.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\World.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\ResourceHolder.inl">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\BloomEffect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\CharacterAnimation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Clock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Command.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\CommandQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Container.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\DataTables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\EmitterNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\GameOverState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\GameServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\GameState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Interactable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\LeaderBoardState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\MenuState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\MultiplayerGameState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\MusicPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\NetworkNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\ParticleNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\PauseState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Platform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\PostEffect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SceneNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SettingsState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SoundNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SoundPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\SpriteNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\State.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\StateStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\TextNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\TitleState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\Utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\For TiernaBaby\Multiplayer WithNetworkCodeITried\Project1GD4GameWorld\Project1GD4GameWorld\World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

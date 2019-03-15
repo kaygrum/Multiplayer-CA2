@@ -1,0 +1,8 @@
+﻿  Application.cpp
+e:\college\4th year\multiplayer\ca2\for tiernababy\multiplayer withnetworkcodeitried\project1gd4gameworld\project1gd4gameworld\application.cpp(28): error C2512: 'Player': no appropriate default constructor available
+  e:\college\4th year\multiplayer\ca2\for tiernababy\multiplayer withnetworkcodeitried\project1gd4gameworld\project1gd4gameworld\state.hpp(16): note: see declaration of 'Player'
+  NetworkNode.cpp
+e:\college\4th year\multiplayer\ca2\for tiernababy\multiplayer withnetworkcodeitried\project1gd4gameworld\project1gd4gameworld\networknode.cpp(13): error C2440: 'return': cannot convert from 'Category' to 'unsigned int'
+  e:\college\4th year\multiplayer\ca2\for tiernababy\multiplayer withnetworkcodeitried\project1gd4gameworld\project1gd4gameworld\networknode.cpp(13): note: This conversion requires an explicit cast (static_cast, C-style cast or function-style cast)
+  Player.cpp
+  Generating Code...
